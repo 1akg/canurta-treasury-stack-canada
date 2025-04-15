@@ -3,4 +3,5 @@ A Canadian-first operational standard for SMEs and founders to integrate Bitcoin
 
 
 
-![ChatGPT Image Apr 15, 2025 at 05_14_08 PM](https://github.com/user-attachments/assets/96963ab3-1956-4bd2-b2a8-83eb8d2d155a)
+![Uploading Screenshot 2025-04-15 at 5.16.24 PM.png…]()
+
