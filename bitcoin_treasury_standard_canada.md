@@ -3,7 +3,7 @@
 
 ## Canurta Helping Consult Canadian Companies on Bitcoin Treasury Standards
 
-## BitcoinWell Welcome Script
+## \ Welcome Script
 
 Hello Everyone, I am Akeem Gardner, CEO & Founder of Canurta Therapeutics. And today I am here to talk to you about something important: **Self-Custody and Bitcoin.**
 
