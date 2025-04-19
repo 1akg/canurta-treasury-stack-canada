@@ -12,6 +12,12 @@ For founders, creatives, and small businesses, this is a game changer. It means 
 
 Bitcoin held in self-custody on your corporate balance sheet helps connect us across backgrounds and sectors—with shared values like transparency, resilience, and trust in code over institutions. It’s not just financial tech—it’s a mindset. One that says: we’re ready to lead.
 
+As we continue to grow in this changing world, we will update this SOP with the best practices and our thoughts on best guides to safely secure your future with Bitcoin Treasury for your long-term capital.
+
+Lets have courage to take control of our own future. 
+
+- Akeem Gardner
+
 ---
 
 # Standard Operating Procedure (SOP)  
@@ -19,7 +25,7 @@ Bitcoin held in self-custody on your corporate balance sheet helps connect us ac
 **Prepared by:** Canurta Bitcoin Treasury Services  
 **Version:** 1.0  
 **Effective Date:** April 15th, 2025  
-**Approved by:** [Insert Approver Name]
+**Approved by:** Akeem Gardner
 
 ---
 
@@ -83,18 +89,19 @@ This SOP is intended for:
 
 **Goal:** Secure your Bitcoin with a two-tier wallet system—hot for operations, cold for treasury.
 
-### 3.1 Hot Wallet (Operational Use)
-
-- Create wallet using **Coinbase Wallet** or **BlueWallet**  
-- Learn how to securely store seed phrase (offline & encrypted)  
-- Connect to treasury dashboard if needed for real-time operations  
-
-### 3.2 Cold Wallet (Treasury Reserve)
+### 3.1 Cold Wallet (Treasury Reserve)
 
 - Order a [Ledger Nano X or S device](https://shop.ledger.com/pages/referral-program?referral_code=8MTTCMKD5DF52)  
 - Complete guided setup with Canurta or self-guided instructions  
 - Print and store backup seed phrase in secure location (fireproof safe, safety deposit box, etc.)  
-- Disconnect device from internet until future treasury use  
+- Disconnect device from internet until future treasury use
+- Connect to treasury dashboard if needed for real-time operations  
+
+### 3.2 Hot Wallet (Operational Use)
+
+- Create wallet using [Coinbase Wallet](https://www.coinbase.com/en-ca/join/KG59LFE?src=ios-link) or **BlueWallet**  
+- Learn how to securely store seed phrase (offline & encrypted)  
+- Connect to treasury dashboard if needed for real-time operations  
 
 **You’ll Receive:**
 
