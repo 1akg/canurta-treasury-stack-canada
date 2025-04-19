@@ -1,126 +1,125 @@
-
 # Bitcoin Treasury Standard Canada
 
 ## Canurta Helping Consult Canadian Companies on Bitcoin Treasury Standards
 
-## Welcome Script
+## Welcome Message
 
-Hello Everyone, I am Akeem Gardner, CEO & Founder of Canurta Therapeutics. And today I am here to talk to you about something important: **Self-Custody and Bitcoin.**
+Hello Everyone, I am Akeem Gardner, CEO & Founder of Canurta Therapeutics. And this is from me to you, a quick onboarding to the **Bitcoin Standard for Canadian Companies.**
 
-Self-custody isn’t just about holding Bitcoin—it’s about holding power in your own hands.
+For many of us, especially those from my communities, traditional financial systems haven’t always been built with us in mind. They’ve created barriers, not bridges. Being able to self-custody your long-term capital helps you flip the script. It gives us the tools to protect and grow our wealth on our own terms—and opens the door to real economic freedom that we can pass down for generations.
 
-For many of us, especially those from my communities, traditional financial systems haven’t always been built with us in mind. They’ve created barriers, not bridges. Self-custody flips the script. It gives us the tools to protect and grow our wealth on our own terms—and opens the door to real economic freedom that we can pass down for generations.
+For founders, creatives, and small businesses, this is a game changer. It means no middlemen, no waiting on approvals, and no unnecessary risk from systems we didn’t design. It gives you the flexibility and control you need to build boldly and adapt quickly in a fast-changing world.
 
-For founders, creatives, and small businesses, self-custody is a game changer. It means no middlemen, no waiting on approvals, and no unnecessary risk from systems we didn’t design. It gives you the flexibility and control you need to build boldly and adapt quickly in a fast-changing world.
+Bitcoin held in self-custody on your corporate balance sheet helps connect us across backgrounds and sectors—with shared values like transparency, resilience, and trust in code over institutions. It’s not just financial tech—it’s a mindset. One that says: we’re ready to lead.
 
-Bitcoin held in self-custody connects us across backgrounds and sectors—with shared values like transparency, resilience, and trust in code over institutions. It’s not just financial tech—it’s a mindset. One that says: we’re ready to lead.
-
+---
 
 # Standard Operating Procedure (SOP)  
 **Title:** Bitcoin Treasury Onboarding for Canadian Enterprises  
 **Prepared by:** Canurta Bitcoin Treasury Services  
 **Version:** 1.0  
-**Effective Date:** [April 15th, 2025]  
+**Effective Date:** April 15th, 2025  
 **Approved by:** [Insert Approver Name]
 
 ---
 
 ## Purpose
 
-This SOP outlines the standardized process through which Canurta assists Canadian small-to-medium enterprises (SMEs), founders, and mission-driven organizations in establishing a Bitcoin Treasury infrastructure. This includes onboarding to OTC purchasing, setting up secure wallets (hot and cold), exploring bitcoin-denominated insurance products, and ensuring regulatory-ready transparency and reporting.
+This SOP outlines the step-by-step process through which Canurta helps Canadian SMEs, founders, and mission-driven organizations set up a secure and transparent Bitcoin Treasury strategy—from OTC purchase setup and wallet security to ongoing governance, insurance, and advisory.
 
 ---
 
 ## Scope
 
-This SOP applies to:
+This SOP is intended for:
 
-- Canadian SMEs, tech startups, and innovation-driven organizations  
-- Founders and mission-aligned individuals looking to hold BTC on their corporate balance sheet  
-- Any party engaging Canurta for Treasury setup, strategy, and education
+- Canadian SMEs and tech startups  
+- Mission-aligned founders and operators  
+- Any client working with Canurta to build a Bitcoin-backed balance sheet  
 
 ---
 
 ## 1. Initial Consultation & Needs Assessment
 
-**Objective:** Understand the client’s goals, risk tolerance, time horizon, and compliance readiness.
+**Goal:** Align on your business goals, capital allocation strategy, and regulatory posture.
 
-**Tasks:**
+**Steps:**
 
-- Schedule 30–60 minute onboarding session  
-- Identify corporate structure (LP, Inc., etc.)  
-- Determine purpose of BTC holdings (treasury, yield, hedging)  
-- Assess current banking, finance, and compliance processes  
-- Discuss any investor sensitivities and capital risk frameworks  
+- Schedule a 30–60 minute onboarding call with our team  
+- Identify your legal structure (Inc., LP, Corp., etc.)  
+- Discuss treasury goals: reserve, long-term yield, hedging, etc.  
+- Outline any corporate banking and compliance requirements  
+- Highlight investor/stakeholder expectations  
 
-**Deliverables:**
+**You’ll Receive:**
 
-- Risk profile matrix  
-- Client intake form  
-- Compliance checklist (KYC, AML as needed)
+- A risk profile summary  
+- Compliance & onboarding checklist (KYC/AML as needed)  
+- Treasury needs & strategy template  
 
 ---
 
 ## 2. Bitcoin OTC Purchase Setup
 
-**Objective:** Facilitate large or strategic BTC purchases through Over-the-Counter (OTC) channels.
+**Goal:** Execute large or strategic BTC purchases with safe, compliant execution.
 
-**Tasks:**
+**Steps:**
 
-- Introduce client to **Bitcoin Well OTC** desk: [https://bitcoinwell.com/referral/canurta]  
-- Verify client KYC and funding source  
-- Set up transaction limits and timelines  
-- Ensure client is aware of execution and settlement process  
-- Review best practices for recordkeeping
+- Start onboarding with [Bitcoin Well OTC Desk](https://bitcoinwell.com/referral/canurta)  
+- Complete KYC documentation and set transaction limits  
+- Fund your account or prepare wire transfers  
+- Execute initial BTC purchase  
+- Store records of all transactions and confirmations  
 
-**Deliverables:**
+**You’ll Receive:**
 
 - OTC onboarding confirmation  
-- BTC purchase log  
-- Payment verification memo  
+- BTC acquisition log  
+- Execution & payment memo for recordkeeping  
 
 ---
 
 ## 3. Wallet Infrastructure Setup
 
-**Objective:** Implement secure wallet solutions tailored to the client’s operational structure.
+**Goal:** Secure your Bitcoin with a two-tier wallet system—hot for operations, cold for treasury.
 
-### 3.1 Hot Wallet (Operational Access)
+### 3.1 Hot Wallet (Operational Use)
 
-- Setup through **Coinbase Wallet** or **BlueWallet**
-- Educate on recovery phrases, password management, and mobile security  
-- Link with operational systems (if needed)
+- Create wallet using **Coinbase Wallet** or **BlueWallet**  
+- Learn how to securely store seed phrase (offline & encrypted)  
+- Connect to treasury dashboard if needed for real-time operations  
 
-### 3.2 Cold Wallet (Treasury Custody)
+### 3.2 Cold Wallet (Treasury Reserve)
 
-- Order and configure **Ledger Nano X/S** via Canurta’s referral: [https://shop.ledger.com/pages/referral-program?referral_code=8MTTCMKD5DF52]  
-- Walk through setup, encryption, seed phrase management  
-- Recommend air-gapped storage practices  
-- Offer vaulting options (on-site or partner custody)
+- Order a [Ledger Nano X or S device](https://shop.ledger.com/pages/referral-program?referral_code=8MTTCMKD5DF52)  
+- Complete guided setup with Canurta or self-guided instructions  
+- Print and store backup seed phrase in secure location (fireproof safe, safety deposit box, etc.)  
+- Disconnect device from internet until future treasury use  
 
-**Deliverables:**
+**You’ll Receive:**
 
-- Wallet setup guide  
-- Cold wallet key custody protocol  
-- Signed declaration of seed phrase custody
+- Wallet setup instructions  
+- Seed phrase management protocol  
+- Signed self-custody declaration  
 
 ---
 
 ## 4. Treasury Management Transparency & Reporting
 
-**Objective:** Ensure treasury operations are transparent and aligned with governance best practices.
+**Goal:** Build institutional-grade reporting and proof-of-reserve standards.
 
-**Tools:**
+**Steps:**
 
-- Introduce **Block.xyz** for open-source Bitcoin treasury tools: [https://github.com/1akg/bitcoin-treasury]
-- Customize reporting template for CFO/Board compliance  
-- Integrate regular reporting and proof-of-reserve if desired  
+- Launch a custom dashboard using [Block.xyz open-source tools](https://github.com/1akg/bitcoin-treasury)  
+- Establish quarterly update cadence with CFO and board  
+- Document internal controls over private key access  
+- Optionally publish a public-facing proof-of-holdings page  
 
-**Deliverables:**
+**You’ll Receive:**
 
-- Customized Bitcoin Treasury Dashboard  
-- Quarterly BTC performance & acquisition report  
-- Optional integration with SEDAR+ (public disclosure)
+- Treasury dashboard template  
+- Board-ready reporting package  
+- Optional SEDAR+ disclosure integration  
 
 ---
 
@@ -128,43 +127,43 @@ This SOP applies to:
 
 ### 5.1 BTC-Denominated Life Insurance
 
-- Partner with **Meanwhile.bm**  
-- Support clients in converting fiat premiums to BTC  
-- Help structure policies for executive protection, legacy, and corporate insurance
+- Partner with **Meanwhile.bm** for executive BTC life insurance  
+- Choose policies denominated and paid in BTC  
+- Tailor for succession, family office, or executive compensation  
 
-### 5.2 Bitcoin Custody Insurance
+### 5.2 Custody Risk Insurance
 
-- Introduce **AnchorWatch** for institutional-grade insurance  
-- Document policy coverage, limits, and custody procedures  
-- Recommend BTC custody risk framework and annual audit  
+- Work with **AnchorWatch** to insure cold wallet assets  
+- Document insurance terms, thresholds, and multi-signature setup  
+- Incorporate into annual treasury risk audit  
 
-**Deliverables:**
+**You’ll Receive:**
 
-- Life insurance policy summary  
-- Custody insurance terms & annual review plan  
+- Summary of policies & coverage  
+- Documentation checklist for underwriters  
 
 ---
 
 ## 6. Ongoing Advisory & Monitoring
 
-**Objective:** Provide clients with long-term guidance and adaptive strategy in line with Bitcoin market developments and regulatory shifts.
+**Goal:** Stay up-to-date and confident as the market and regulations evolve.
 
-**Tasks:**
+**Steps:**
 
-- Quarterly advisory session (opt-in)  
-- Alerts for regulatory updates and tax treatment changes  
-- Option to subscribe to Canurta Bitcoin Insights newsletter  
+- Schedule quarterly strategy check-ins  
+- Receive alerts for major regulatory/tax changes  
+- Join Canurta’s investor newsletter + policy updates  
 
-**Deliverables:**
+**You’ll Receive:**
 
-- Quarterly strategy update  
-- Risk assessment summary  
-- Tax season guidance memo
+- Quarterly performance summary  
+- Updated risk recommendations  
+- Tax time guidance
 
 ---
 
 ## Contact & Support
 
-**Lead Advisor:** Akeem Gardner, CEO & Founder, Canurta  
-**Support Email:** bitcoin@canurta.com  
-**Calendly Booking:** [https://calendly.com/cnr-akg/meeting-with-akeem]
+**Lead Advisor:** Akeem Gardner, CEO & Founder  
+**Email:** [bitcoin@canurta.com](mailto:bitcoin@canurta.com)  
+**Book a Call:** [Schedule via Calendly](https://calendly.com/cnr-akg/meeting-with-akeem)
