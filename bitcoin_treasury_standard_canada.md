@@ -65,7 +65,7 @@ This SOP applies to:
 
 **Tasks:**
 
-- Introduce client to [Bitcoin Well OTC desk](https://bitcoinwell.com/referral/canurta)  
+- Introduce client to the [Bitcoin Well / Canurta Landing Page](https://bitcoinwell.com/canurta) or direct to [Bitcoin Well OTC desk](https://bitcoinwell.com/referral/canurta)  
 - Verify client KYC and funding source  
 - Set up transaction limits and timelines  
 - Ensure client is aware of execution and settlement process  
