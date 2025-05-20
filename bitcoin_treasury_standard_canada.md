@@ -1,6 +1,6 @@
 # Bitcoin Treasury Standard Canada
 
-## Canurta Helping Consult Canadian Companies on Bitcoin Treasury Standards
+## How Canurta Helps Canadian Companies Implement Bitcoin Treasury Standards
 
 ## Welcome Message
 
